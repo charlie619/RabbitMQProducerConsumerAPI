@@ -1,6 +1,6 @@
 This web API represents the working with RabbitMQ 7.0.0
 
-##################################################################
+##################################################################################################################################
 
 POSTMAN API's example:
 For receiving all messages: https://localhost:7237/receive
